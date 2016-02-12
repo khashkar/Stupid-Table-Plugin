@@ -12,6 +12,9 @@ Installation via Bower
 ----------------------
 
     $ bower install jquery-stupid-table
+Installation via npm 
+--------------------
+    $ npm install jquery-stupid-table 
 
 
 Example Usage
